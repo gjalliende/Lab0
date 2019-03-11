@@ -1,0 +1,62 @@
+gjall@LAPTOP-GRSBH7FN MINGW64 ~/Desktop/Lab0 (master)
+$ history
+    1  git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe'"
+    2  git commit
+    3  git config --global user.name "gjalliende"
+    4  git config --global user.email gjaliende@uc.cl
+    5  git commit
+    6  cd /c/Users/gjall/Desktop/probando
+    7  git clone https://github.com/gjalliende/probando.git
+    8  git config --global user.name "gjaliende"
+    9  git config --global user.email gjalliende@uc.cl
+   10  cd /c/Users/gjall/Desktop/Prueba
+   11  git clone https://github.com/gjalliende/probando.git
+   12  cd /c/Users/gjall/Desktop/Prueba/probando
+   13  git add.
+   14  git add .
+   15  git commit -m "Chalo"
+   16  git push
+   17  git add
+   18  git add .
+   19  git commit -m
+   20  git commit -m "holi"
+   21  git push
+   22  git pull
+   23  git
+   24  git config --global user.name "gjalliende"
+   25  git config --global user.email gjalliende@uc.cl
+   26  cd /c/Users/gjall/Desktop/Prueba1
+   27   git clone https://github.com/gjalliende/Prueba.git
+   28   cd /c/Users/gjall/Desktop/Prueba1/Prueba
+   29  git add .
+   30  git commit -m "esto es agregar nada"
+   31  git push
+   32  git pull
+   33  git add .
+   34  git commit -m "holahola"
+   35  git push
+   36  git pull
+   37  pwd
+   38  dir
+   39  cd /c/Users/gjall/Desktop
+   40  git clone https://github.com/IIC2115/Syllabus.git
+   41  git config --global user.name "gjalliende"
+   42  git config --global user.email gjalliende@uc.cl
+   43  git pull
+   44  cd /c/Users/gjall/Desktop
+   45  cd /c/Users/gjall/Desktop/Syllabus
+   46  git pull
+   47  cd /c/Users/Desktop
+   48  cd /c/Users/gjall/Desktop
+   49  git clone https://github.com/gjalliende/Lab0.git
+   50  git add .
+   51  cd /c/Users/gjall/Desktop/Lab0
+   52  git add .
+   53  git commit -m "Texto lab0 pregunta 5"
+   54  git push
+   55  git pull
+   56  doskey
+   57  doskey/history
+   58  doskey/History
+   59  History
+   60  history
